@@ -1,0 +1,6 @@
+Name                       Age           City                Contact Number
+Tajamal                   21               Lahore        03438002540
+Hussain                   20              Gujrat          0200304009
+Hussan                    20              Karachi        0280304009
+Waqas                     29              Lahore         03480902840
+Muhammad          10              Lahore         3628283472948

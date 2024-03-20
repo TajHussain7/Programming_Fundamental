@@ -1,0 +1,2 @@
+Carry umbrella and overcoat when it rains
+Then the file SECOND.TXT shall contain

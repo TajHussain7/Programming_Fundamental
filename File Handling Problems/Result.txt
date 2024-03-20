@@ -1,0 +1,2 @@
+Sum is: 150
+Average is: 30

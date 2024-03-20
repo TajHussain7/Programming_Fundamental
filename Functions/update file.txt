@@ -1,0 +1,4 @@
+Sum of numbers are: 87
+Average of numbers are: 14
+Maximum Number is: 17
+Minimum Number is: 0
